@@ -1,1 +1,1 @@
-# recipe_ideas_from_ingredients
+# Foodinator
