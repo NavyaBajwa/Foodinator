@@ -1,6 +1,8 @@
 # Foodinator
 
-Foodinator is a full-stack application designed to help users find recipes based on the ingredients they have on hand. The app provides a user-friendly interface to search for ingredients, fetch recipe ideas, and explore recipe information, including images and source links. My goal for this project was to explore different languages and frameworks. 
+Foodinator is a full-stack application designed to help users find recipes based on the ingredients they have on hand. The app provides a user-friendly interface to search for ingredients, fetch recipe ideas, and explore recipe information, including images and source links. 
+
+My goal for this project was to explore different languages and frameworks. 
 
 ## Features
 - __Sleek UI__: Intuitive and modern user interface using Tailwind CSS.
